@@ -1,0 +1,11 @@
+/* span { font-weight: bold; background-color: orangered; padding: 0.5em 0.8em;
+cursor: pointer; border-radius: 10px; } */
+.play-container {
+  padding: 3em;
+  border: 1px solid gray;
+  margin-bottom: 1rem;
+}
+input {
+  padding: 1em;
+  margin-bottom: 2em;
+}
